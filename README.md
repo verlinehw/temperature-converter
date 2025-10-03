@@ -11,8 +11,8 @@ This project is made using Python 3 and can run both on PC and Android.
 1. Clone or download this repository.
 2. Open 'converter.py' in your Python environment.
 3. Run the program:
-   '''bash
+   ```bash
    python converter.py
-4. Choose conversion option:
+5. Choose conversion option:
    • 1 >>> Celcius to Fahrenheit
    • 2 >>> Fahrenheit to Celsius 
